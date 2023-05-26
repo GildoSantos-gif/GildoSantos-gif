@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou Gildo Santos</h1>
-<h3 align="center">Cursando Desenvolvimento Web Full Stack na Trybe.</h3>
+<h3 align="center">Formado em Desenvolvimento Web Full Stack na Trybe.</h3>
 
 - 🌱 Formado em front e back **Estudando: POO e Python**
 
